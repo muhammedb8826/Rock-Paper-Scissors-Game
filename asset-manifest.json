@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rock-paper-scissor-game/static/css/main.cf9de7e2.css",
+    "main.js": "/rock-paper-scissor-game/static/js/main.09c46870.js",
+    "static/media/background2.jpg": "/rock-paper-scissor-game/static/media/background2.98a6725899eb67bc6b0c.jpg",
+    "index.html": "/rock-paper-scissor-game/index.html",
+    "main.cf9de7e2.css.map": "/rock-paper-scissor-game/static/css/main.cf9de7e2.css.map",
+    "main.09c46870.js.map": "/rock-paper-scissor-game/static/js/main.09c46870.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf9de7e2.css",
+    "static/js/main.09c46870.js"
+  ]
+}
